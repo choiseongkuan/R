@@ -1,1 +1,1 @@
-#### Welcome to R community for communication and exchange
+#### Here are some R language materials for you to study
