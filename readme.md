@@ -1,1 +1,1 @@
-#### Wellcome to R community for communication and exchange
+#### Welcome to R community for communication and exchange
